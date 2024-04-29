@@ -37,7 +37,7 @@ Welcome to the LMS (Learning Management System) project! This project aims to pr
 - **uploadthing**: Image and video upload library for seamless multimedia integration.
 - **lucide-react & react-icons**: Icon libraries for visual enhancements.
 - **react-hook-form**: Form handling library for efficient form management.
-- **react-hook-toast**: Notification library for displaying alerts and messages.
+- **react-hot-toast**: Notification library for displaying alerts and messages.
 - **react-quill**: Rich text editor component for creating formatted text content.
 - **recharts**: Charting library for visualizing data with interactive charts.
 - **hello-pangea/dnd**: Drag and drop library for intuitive user interactions.
